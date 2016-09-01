@@ -1,2 +1,10 @@
-
-shit
+phraseapp:
+  access_token: "f8512f0cce692b36ba640cc522467a97914de10a"
+  project_id: "23969afa72d7b02d842c437aa31a9594"
+  file_format: "yml"
+  push:
+    sources:
+    - file: "./config/locales/<locale_name>.yml"
+  pull:
+    targets:
+    - file: "./config/locales/<locale_name>.yml"
