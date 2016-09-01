@@ -4,4 +4,4 @@ phraseapp:
   file_format: "yml"
   push:
     sources:
-    - file: "/files2.strings"
+    - file: "files2.strings"
