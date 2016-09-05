@@ -1,0 +1,13 @@
+/* Insert Element menu item */
+"Insert Element" = "加東西";
+/* Error string used for unknown error types. */
+"ErrorString_1" = "An unknown error occurred.";
+"dummyString-1-1" = "There is a \"dummy\" string";
+"haha" = "give a 哈哈 string";
+"rubbish" = "";
+"rubbish2" = "";
+"rubbish3" = "";
+/**
+ * Is there any problem with
+ * Block comment?
+ */
