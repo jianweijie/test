@@ -1,0 +1,10 @@
+/* Insert Element menu item */
+"Insert Element" = "Bonjour";
+/* Error string used for unknown error types. */
+"ErrorString_1" = "Opps!!!!!ERRRRRRRRRR";
+"dummyString-1-1" = "Dummmmmmmmmmmmmmy string";
+"rubbish" = "Opps! This is a poor rubbish string";
+/**
+ * Is there any problem with
+ * Block comment?
+ */
